@@ -1,0 +1,58 @@
+/* General Body Styling */
+body {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9; /* Soft off-white background (closer to white) */
+  color: #333; /* Darker text color for readability */
+  line-height: 1.6;
+  padding-left: 2rem; /* Add padding on the left side */
+}
+
+/* Remove any white background around the content (no content box) */
+main {
+  max-width: 800px;
+  margin: 40px auto; /* Center the main content with margin at top */
+  padding: 30px;
+  background-color: transparent; /* Make the background of main transparent */
+  /* Removed border-radius and shadow */
+}
+
+/* Headings Styling */
+h1, h2, h3 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 17px; /* Match the original size */
+  font-feature-settings: normal;
+}
+
+
+/* Links: Color for readability */
+a {
+  text-decoration: none;
+  color: #0061f2; /* Light blue color for links */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Minimalist Navigation */
+nav {
+  display: none; /* Hide navigation (if you don't want it visible) */
+}
+
+/* Paragraph styling for a clean look */
+p {
+  margin-bottom: 0.5rem;
+  color: #444; /* Slightly lighter gray for text */
+}
+
+/* Link styles in the content */
+ul li a, ol li a {
+  color: #0061f2;
+}
+
+ul li a:hover, ol li a:hover {
+  text-decoration: underline;
+}
