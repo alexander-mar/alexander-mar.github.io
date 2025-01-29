@@ -9,6 +9,7 @@ gem "no-style-please"
 # Jekyll Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-remote-theme" # Enables remote themes
 end
 
 # Windows and JRuby compatibility
