@@ -23,3 +23,5 @@ gem "wdm", "~> 0.1", platforms: [:mingw, :x64_mingw, :mswin]
 
 # Lock `http_parser.rb` to `v0.6.x` for JRuby builds
 gem "http_parser.rb", "~> 0.6.0", platforms: [:jruby]
+
+gem "webrick", "~> 1.9"
