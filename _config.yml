@@ -24,16 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Alexander Marrapese's personel website. With some books, writing, and mental models.
 
 # for local hosting
-# baseurl: ""  # Set to "" for local development
-# url: "http://localhost:4000"  # Localhost URL for local testing
+baseurl: ""  # Set to "" for local development
+url: "http://localhost:4000"  # Localhost URL for local testing
 
 # for github hosting
-# baseurl: "/alexander-mar.github.io" # Change this to match your repository name
-# url: "https://alexander-mar.github.io" # Your GitHub Pages site URL
+baseurl: "/alexander-mar.github.io" # Change this to match your repository name
+url: "https://alexander-mar.github.io" # Your GitHub Pages site URL
 
 # testing
-baseurl: ""  # Keep it blank for GitHub Pages to work properly
-url: "https://alexander-mar.github.io"  # Your GitHub Pages site URL
+# baseurl: ""  # Keep it blank for GitHub Pages to work properly
+# url: "https://alexander-mar.github.io"  # Your GitHub Pages site URL
 
 twitter_username: jekyllrb
 github_username:  jekyll
