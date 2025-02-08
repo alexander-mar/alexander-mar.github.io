@@ -5,7 +5,6 @@ permalink: /
 ---
 
 # Hey, I'm Alexander
-testing
 
 ### Things I am currently doing
 technology investing @ 3VC - particularly interested in anything deep in data, ml, cyber, infra
@@ -16,3 +15,4 @@ ai policy @ the european commission - focused on technical cybersecurity risks
 - [reading](/reading/)
 - [writing](/writing/)
 - [thinking](/thinking/)
+- [projects](/projects/)
