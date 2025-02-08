@@ -42,15 +42,16 @@ plugins:
 
 nav_links:
   - title: "Home"
-    url: "/"
+    url: "{{ '/' | relative_url }}"
   - title: "Reading"
-    url: "/reading/"
+    url: "{{ '/reading/' | relative_url }}"
   - title: "Writing"
-    url: "/writing/"
+    url: "{{ '/writing/' | relative_url }}"
   - title: "Thinking"
-    url: "/thinking/"
+    url: "{{ '/thinking/' | relative_url }}"
   - title: "Projects"
-    url: "/projects/"
+    url: "{{ '/projects/' | relative_url }}"
+
  
 collections:
   pages:
