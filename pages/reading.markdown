@@ -13,3 +13,6 @@ permalink: /reading/
 - The Bell Jar by Sylvia Plath
 - The Quantum Thief by Hannu Rajaniemi
 - From Third World to First: Singapore and the Asian Economic Boom by Lee Kuan Yew
+
+**february 2025**
+- The Master and Margarita by Mikhail Bulgakov
